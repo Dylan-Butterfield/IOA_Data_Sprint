@@ -12,8 +12,6 @@
 -	Enthusiasm to participate in learning and growth opportunities outside of course.
 -	Problem-solving ability to clean and analyse datasets to find insights to present to IOA.
 
-![Winner_Banner](https://github.com/Dylan-Butterfield/IOA_Data_Sprint/blob/main/Nottingham%20Trent%20University%20-%20Dylan%20Butterfield.png)
-
 ## Visualisations
 
 ![Skip_Rate_Churn_Rate_All_User](https://github.com/Dylan-Butterfield/IOA_Data_Sprint/blob/main/Skip%20and%20Churn%20Rates%20Compared%20to%20Total%20Songs%20Played.png)
